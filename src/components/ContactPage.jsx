@@ -189,7 +189,7 @@ const ContactPage = () => {
             )}
 
             <form onSubmit={handleSubmit}>
-              <div className="mb-6">
+              <div className="mb-10">
                 <label
                   htmlFor="name"
                   className="block text-gray-700 dark:text-gray-200 font-medium mb-2"
@@ -216,7 +216,7 @@ const ContactPage = () => {
                 )}
               </div>
 
-              <div className="mb-6">
+              <div className="mb-10">
                 <label
                   htmlFor="email"
                   className="block text-gray-700 dark:text-gray-200 font-medium mb-2"
@@ -243,7 +243,7 @@ const ContactPage = () => {
                 )}
               </div>
 
-              <div className="mb-6">
+              <div className="mb-10">
                 <label
                   htmlFor="subject"
                   className="block text-gray-700 dark:text-gray-200 font-medium mb-2"
@@ -270,7 +270,7 @@ const ContactPage = () => {
                 )}
               </div>
 
-              <div className="mb-6">
+              <div className="mb-10">
                 <label
                   htmlFor="message"
                   className="block text-gray-700 dark:text-gray-200 font-medium mb-2"

@@ -34,7 +34,7 @@ function App() {
                   <div className="max-w-4xl mx-auto">
                     <section className="mb-16">
                       <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-center mb-8 text-blue-600 dark:text-blue-400">
-                        Welcome to My Portfolio
+                        Welcome !!!
                       </h1>
                       <p className="text-lg text-center text-gray-600 dark:text-gray-300 mb-8">
                         Explore my projects, learn about me, and see what I can
@@ -75,7 +75,7 @@ function App() {
           <div className="container mx-auto">
             <div className="flex flex-col md:flex-row justify-between items-center gap-4">
               <div>
-                <h3 className="text-xl font-bold">My Portfolio</h3>
+                <h3 className="text-xl font-bold">SBD 9</h3>
                 <p className="text-blue-100">
                   © Tugas Pendahuluan - Praktikum SBD
                 </p>
